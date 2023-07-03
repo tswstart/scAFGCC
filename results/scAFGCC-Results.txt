@@ -1,0 +1,2 @@
+embedder_scAFGCC-Results_dataset_h5ad/real_data/baron3_preprocessed.h5ad_checkpoint_dir_model_checkpoints_task_clustering_layers_[512]_pred_hid_1024_topk_3_num_centroids_14_num_kmeans_5_eval_freq_10_mad_0.9_lr_0.001_es_300 -> ** [Best epoch: 30] Best ARI: 0.9620 NMI: 0.9326 **
+
