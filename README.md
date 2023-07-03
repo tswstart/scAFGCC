@@ -1,5 +1,5 @@
 # scAFGCC
-![scAFGCC](fig1.pdf)
+![scAFGCC](fig1.png)
 ## Testing Commands
 We have constructed four graphs for example, including Human3, Darmanis, Klein, and Zeisel.
 
