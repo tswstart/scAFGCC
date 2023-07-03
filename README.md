@@ -1,5 +1,5 @@
 # scAFGCC
-![scAFGCC](https://github.com/tswstart/scAFGCC/blob/master/fig1.eps)
+![scAFGCC](https://github.com/tswstart/scAFGCC/blob/master/fig1.pdf)
 ## Testing Commands
 We have constructed four graphs for example, including Human3, Darmanis, Klein, and Zeisel.
 
