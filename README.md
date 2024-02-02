@@ -51,7 +51,7 @@ python main.py --dataset dataset/balanced_data/data0c4_preprocessed.h5ad --mbedd
 # imbalanced datasets
 python main.py --dataset dataset/imbalanced_data/data-1c4_preprocessed.h5ad --mbedder scAFGCC-Results --layers [512] --pred_hid 1024 --lr 0.001 --topk 3 --device 0
 # real datasets
-python main.py --dataset dataset/real_data/Human1_preprocessed.h5ad --mbedder scAFGCC-Results --layers [512] --pred_hid 1024 --lr 0.001 --topk 3 --device 0
+python main.py --dataset dataset/real_data/Human3_preprocessed.h5ad --mbedder scAFGCC-Results --layers [512] --pred_hid 1024 --lr 0.001 --topk 3 --device 0
 ```
 
 In this context, we offer a collection of commonly employed scAFGCC parameters for your reference. For additional details, you can execute `python scAFGCC.py -h`.
